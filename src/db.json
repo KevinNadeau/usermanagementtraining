@@ -1,0 +1,32 @@
+{
+    "users": [
+    {
+    "id": "0",
+    "name": "Leanne Graham",
+    "username": "Maxime_9",
+    "email": "test123@test.com",
+    "phone": "0645657585",
+    "website": "ideas.com"
+
+},
+{
+    "id": "1",
+    "name": "Julien Luc",
+    "username": "Oulion10",
+    "phone": "0699657577",
+    "email": "test163@test.com",
+    "website": "providerTech.com"
+    
+},
+{
+    "id": "2",
+    "name": "Lila Lucas",
+    "phone": "0688557705",
+    "username": "Hello4",
+    "email": "test163@test.com",
+    "website": "providerTech.com"
+    
+}
+
+]
+}
